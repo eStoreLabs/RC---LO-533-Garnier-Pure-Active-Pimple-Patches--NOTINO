@@ -1,0 +1,630 @@
+{
+    "keys": [
+        "chloe/nomade-eau-de-parfum-for-women" // Fill in the product URL suffix from Notino website
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "garnier pure active pimple patches",
+    "rpc": "CHL1784", // Fill in the product code from Notino website
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "garnier pure active pimple patches",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "kv-desktop.jpg",
+                                "element": "img",
+                                "alt": "Niewidoczny plaster, widoczny efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "kv-mobile.jpg",
+                                "element": "img",
+                                "alt": "Niewidoczny plaster, widoczny efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+
+                   
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Klinicznie potwierdzona skuteczność w redukcji niedoskonałości w 8 godzin.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "none",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {
+                                    "max-width": "32px"
+                                }
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Nie pozostawia śladów po niedoskonałościach.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "none",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Trójwymiarowa redukcja widoczności niedoskonałości: rozmiar, objętość i kolor.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "none",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/ba.jpg",
+                                "element": "img",
+                                "alt": "przed i po",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 35px",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/ba-mobile.jpg",
+                                "element": "img",
+                                "alt": "przed i po",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Niewidoczny plaster, widoczny efekt!",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "20px",
+                            "marginBottom": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/effects.jpg",
+                                "element": "img",
+                                "alt": "Efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/effects-mobile.jpg",
+                                "element": "img",
+                                "alt": "Efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Niewidoczny plaster chroni wypryski wyciągając płyn i zanieczyszczenia, aby widoczonie zniwelować niedoskonałości po 8 godzinach1.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "none",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "height": "0",
+                                    "marginBottom": "32px"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-20px",
+                            "marginBottom": "20px",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "2 rozmiary",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "aby przykryć wszystkie wypryski",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "25px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "20px",
+                            "paddingTop": "32px",
+                            "marginBottom": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/sizes.jpg",
+                                "element": "img",
+                                "alt": "Efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/sizes-mobile.jpg",
+                                "element": "img",
+                                "alt": "Efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Jak używać?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "25px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "0",
+                            "marginBottom": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "imageCarousel",
+                        "variant": "v4",
+                        "data": [
+                            {
+                                "name": "slides",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/step-1.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": { 
+                                    "margin": "0 auto",
+                                    "text-align": "center"
+                                    }
+                            },
+                            {
+                                "name": "slides",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/step-2.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {
+                                    "margin": "0 auto",
+                                    "text-align": "center"
+                                    }
+                            },
+                            {
+                                "name": "slides",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/step-3.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {
+                                    "margin": "0 auto",
+                                    "text-align": "center"
+                                    }
+                            }
+                        ],
+                        "properties": {
+                            "margin": "0 auto",
+                            "text-align": "center",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Odkryj gamę PURE ACTIVE",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "25px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "300",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "0",
+                            "marginBottom": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/cross.jpg",
+                                "element": "img",
+                                "alt": "Efekt",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 0 0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/footer.jpg",
+                                "element": "img",
+                                "alt": "przed i po",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0",
+                            "margin": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "https://www.rownymkrokiem.pl/newsletter/footer-mobile.jpg",
+                                "element": "img",
+                                "alt": "przed i po",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0",
+                            "margin": "0",
+                            "background": "#F4FBFB"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
