@@ -1,11 +1,11 @@
 {
     "keys": [
-        "chloe/nomade-eau-de-parfum-for-women" // Fill in the product URL suffix from Notino website
+        "garnier/pure-active-plastry-dla-skory-problematycznej"
     ],
     "type": 0,
     "language": "pl-PL",
     "campaign": "garnier pure active pimple patches",
-    "rpc": "CHL1784", // Fill in the product code from Notino website
+    "rpc": "GAR07042",
     "dateOnSaleFrom": null,
     "owner": "MatusC",
     "contents": [
