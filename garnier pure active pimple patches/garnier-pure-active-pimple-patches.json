@@ -88,7 +88,7 @@
                             },
                             {
                                 "name": "columnOneAsset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "value": "benefits-icon.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": {
@@ -120,7 +120,7 @@
                             },
                             {
                                 "name": "columnTwoAsset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "value": "benefits-icon.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": {}
@@ -150,7 +150,7 @@
                             },
                             {
                                 "name": "columnThreeAsset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/benefits-icon.jpg",
+                                "value": "benefits-icon.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": {}
@@ -172,7 +172,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/ba.jpg",
+                                "value": "ba.jpg",
                                 "element": "img",
                                 "alt": "przed i po",
                                 "properties": {}
@@ -194,7 +194,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/ba-mobile.jpg",
+                                "value": "ba-mobile.jpg",
                                 "element": "img",
                                 "alt": "przed i po",
                                 "properties": {}
@@ -254,7 +254,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/effects.jpg",
+                                "value": "effects.jpg",
                                 "element": "img",
                                 "alt": "Efekt",
                                 "properties": {}
@@ -276,7 +276,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/effects-mobile.jpg",
+                                "value": "effects-mobile.jpg",
                                 "element": "img",
                                 "alt": "Efekt",
                                 "properties": {}
@@ -385,7 +385,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/sizes.jpg",
+                                "value": "sizes.jpg",
                                 "element": "img",
                                 "alt": "Efekt",
                                 "properties": {}
@@ -407,7 +407,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/sizes-mobile.jpg",
+                                "value": "sizes-mobile.jpg",
                                 "element": "img",
                                 "alt": "Efekt",
                                 "properties": {}
@@ -472,7 +472,7 @@
                         "data": [
                             {
                                 "name": "slides",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/step-1.jpg",
+                                "value": "step-1.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": { 
@@ -482,7 +482,7 @@
                             },
                             {
                                 "name": "slides",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/step-2.jpg",
+                                "value": "step-2.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": {
@@ -492,7 +492,7 @@
                             },
                             {
                                 "name": "slides",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/step-3.jpg",
+                                "value": "step-3.jpg",
                                 "element": "img",
                                 "alt": "",
                                 "properties": {
@@ -560,7 +560,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/cross.jpg",
+                                "value": "cross.jpg",
                                 "element": "img",
                                 "alt": "Efekt",
                                 "properties": {}
@@ -582,7 +582,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/footer.jpg",
+                                "value": "footer.jpg",
                                 "element": "img",
                                 "alt": "przed i po",
                                 "properties": {}
@@ -605,7 +605,7 @@
                         "data": [
                             {
                                 "name": "asset",
-                                "value": "https://www.rownymkrokiem.pl/newsletter/footer-mobile.jpg",
+                                "value": "footer-mobile.jpg",
                                 "element": "img",
                                 "alt": "przed i po",
                                 "properties": {}
